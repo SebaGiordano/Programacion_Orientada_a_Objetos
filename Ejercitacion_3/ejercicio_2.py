@@ -55,5 +55,5 @@ while opcion != 2:
             lista_tiempos.append(str(tiempo_de_carrera))
             lista_tiempos_y_ciclistas.append(str(tiempo_de_carrera) + ' min' + ' fue, el ' + 'Participante: ' + nombre)
     else:
-        print("Opcion incorrecta. Vuelve a intentarlo!")
+        print("Opcion incorrecta. Vuelve a intentarlo!!!")
         opcion = int(input("\nIngrese una opcion: "))

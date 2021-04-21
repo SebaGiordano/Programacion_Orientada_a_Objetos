@@ -86,7 +86,7 @@ def menu():
                 print("\nHay mayor cantidad de valores impares")
             op = menu_principal()
         else:
-            print("Opcion incorrecta, vuelva a intentarlo")
+            print("Opcion incorrecta, vuelva a intentarlo!")
             op = menu_principal()
 
 

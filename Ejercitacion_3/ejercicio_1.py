@@ -143,7 +143,7 @@ def menu():
                   f"funciones totales")
             break
         else:
-            print("Opcion incorrecta!! Vuelve a intentarlo.")
+            print("Opcion incorrecta!!! Vuelve a intentarlo.")
             op = menu_principal()
 
 
