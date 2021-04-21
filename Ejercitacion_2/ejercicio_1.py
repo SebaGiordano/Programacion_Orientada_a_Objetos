@@ -6,7 +6,7 @@ Si el resultado es mayor a 10 dividir por 2 (mostrar su resultado sin decimales)
 en caso contrario elevar el resultado al cubo.
 '''
 
-print("Debera ingresar 3 numeros enteros")
+print("> Debera ingresar 3 numeros enteros <")
 
 acum = 0
 
